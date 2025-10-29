@@ -47,8 +47,8 @@ Along with LSTM, implemented a **Decision Tree Regressor** to compare model perf
 | Validation | TimeSeriesSplit (10 splits) |
 
 ---
+![Stock Prediction Demo](https://github.com/Premkumar9799817360/Task1-Stock-Prediction-bharat-intern-Data-Science/assets/83695512/bc12c493-99c6-40b9-af68-770c6e8bdece)
 
-https://github.com/Premkumar9799817360/Task1-Stock-Prediction-bharat-intern-Data-Science/assets/83695512/bc12c493-99c6-40b9-af68-770c6e8bdece
 --- 
 ## ✅ Conclusion
 The project successfully demonstrates **stock price prediction** using **LSTM**.  
